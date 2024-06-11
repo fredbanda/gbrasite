@@ -1,7 +1,6 @@
 // src/components/Card.jsx
 import React from 'react';
-import { p } from '@material-tailwind/react';
-import { CardFooter, Card, CardHeader, CardDescription } from './ui/Card';
+import { Card, CardDescription, CardFooter, CardHeader } from './ui/card';
 
 const CustomCard = ({ title, description, link }) => {
   return (
