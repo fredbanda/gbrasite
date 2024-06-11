@@ -1,0 +1,152 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:8888/bgrahouse
+Data file = C:\xampp\htdocs\bgrahouse/wp-content/uploads/2023/12/demo-content-import-file_2023-12-03__18-42-20.xml
+Widget file = C:\xampp\htdocs\bgrahouse/wp-content/uploads/2023/12/demo-widgets-import-file_2023-12-03__18-42-20.json
+Customiser file = not defined!
+Redux files:
+themnific_redux -> C:\xampp\htdocs\bgrahouse/wp-content/uploads/2023/12/demo-redux-import-file_0-2023-12-03__18-42-20.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Sidebar : 
+
+Navigation Menu - No Title - Imported
+weather_atlas - No Title - Site does not support widget
+Image - No Title - Imported
+Themnific: Featured - Recent News - Imported
+
+Footer 1 : 
+
+Text - Riverside City Hall - Imported
+
+Footer 2 : 
+
+Recent Posts - Recent News - Imported
+
+Footer 3 : 
+
+Text - Quick Links - Imported
+
+Footer 4 : 
+
+Meta - No Title - Imported
+
+Free 1 : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: themnific_redux finished successfully!
+
+---ocdi/after_import---
+
