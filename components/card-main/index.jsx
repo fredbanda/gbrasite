@@ -23,6 +23,7 @@ const MainCard = () => {
   ];
 
   return (
+    <>
     <div className="container mx-auto px-8 py-10">
       <div className="flex flex-col lg:flex-row lg:justify-between space-y-4 lg:space-y-0 lg:space-x-4 text-gray-600">
         {cards.map((card, index) => (
@@ -35,6 +36,7 @@ const MainCard = () => {
         ))}
       </div>
     </div>
+    </>
   );
 };
 

@@ -6,6 +6,8 @@ import MainCard from '../card-main';
 
 const Loadshed = () => {
   return (
+    <>
+    
     <div className="container mx-auto px-8 py-10">
       <div className="flex flex-col lg:flex-row">
         <div className="flex-1">
@@ -14,6 +16,7 @@ const Loadshed = () => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
