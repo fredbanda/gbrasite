@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Gordon's Bay Residents Association",
-  description: "created with love by Eunny",
+  description: "A place for everyone. Your beautiful home surrounded by trees and kissed by the sea. We are Gordon's Bay Residents Association.",
 };
 
 export default function RootLayout({ children }) {
